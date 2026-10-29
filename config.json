@@ -1,0 +1,334 @@
+{
+  "serverName": "The Trenches: BackDoor Season",
+  "description": "The Trenches: BackDoor Season Loading Screen!",
+  "discordUrl": "https://discord.gg/UEsxNKNQQE",
+  "tebexUrl": "Your Url Here",
+
+  "discordCard": {
+    "title": "The Trenches: BackDoor Season",
+    "description": "The Trenches: BackDoor Season Discord Server!",
+    "url": "https://discord.gg/UEsxNKNQQE"
+  },
+
+  "team": [
+    {
+      "name": "BanksTooTact",
+      "role": "Founder",
+      "avatar": "https://r2.fivemanage.com/CIRFDh7crc006bgWELwMN/banks.jpg"
+    },
+        {
+      "name": "KrashOutManny",
+      "role": "Staff",
+      "avatar": "https://r2.fivemanage.com/CIRFDh7crc006bgWELwMN/manny.jpg"
+    },
+        {
+      "name": "JoeMomma",
+      "role": "Staff",
+      "avatar": "https://r2.fivemanage.com/CIRFDh7crc006bgWELwMN/rich.jpg"
+    }
+  ],
+
+  "rules": [
+    "No RDM / VDM: Killing players without roleplay context or ramming them with cars is prohibited.",
+    "No Metagaming: Do not use outside info (like Discord streams) to gain an advantage in character.",
+    "Not Valuing Life (NVL): You must fear for your life. Comply if you are unarmed and held at gunpoint.",
+    "No Combat Logging: Do not log out to escape NYPD pursuits, arrests, medical care, or shootouts.",
+    "No Hate Speech: Racism, discrimination, or offensive symbols against any religion, ethnicity, race, or LGBTQ+ citizens are strictly banned."
+  ],
+
+  "gallery": [
+    "https://r2.fivemanage.com/CIRFDh7crc006bgWELwMN/server.jpg"
+
+  ],
+
+  "music": [
+
+        {
+      "title": "Thizzler Cypher 2022",
+      "artist": "DB.Boutabag, EBK Bckdoe, Kai Bandz, Lil Seeto, KFlex",
+      "cover": "https://r2.fivemanage.com/CIRFDh7crc006bgWELwMN/thizzlercypher.jpg",
+      "src": "https://r2.fivemanage.com/CIRFDh7crc006bgWELwMN/DB.BoutabagEBKBckdoeKaiBandzLilSeetoKFlex(Prod.Miiir)__ThizzlerCypher2022.mp4"
+    },
+
+        {
+      "title": "Boogieman",
+      "artist": "EBK Jaaybo",
+      "cover": "https://r2.fivemanage.com/CIRFDh7crc006bgWELwMN/ebkjaybo-boogieman.jpg",
+      "src": "https://r2.fivemanage.com/CIRFDh7crc006bgWELwMN/EBKJaaybo-Boogieman(OfficialMusicVideo)-EBKJaaybo(1080p).mp4"
+    },
+
+        {
+      "title": "IGNORANCE",
+      "artist": "KING LIL G",
+      "cover": "https://r2.fivemanage.com/CIRFDh7crc006bgWELwMN/kinglilg-ignorance.jpg",
+      "src": "https://r2.fivemanage.com/CIRFDh7crc006bgWELwMN/KINGLILG-IGNORANCE(OfficialMusicVideo).mp4"
+    },
+
+        {
+      "title": "Hopeless Boy",
+      "artist": "KING LIL G ft. David Ortiz",
+      "cover": "https://r2.fivemanage.com/CIRFDh7crc006bgWELwMN/kinglilg-hopelessboy.jpg",
+      "src": "https://r2.fivemanage.com/CIRFDh7crc006bgWELwMN/KINGLILG-HopelessBoyft.DavidOrtiz.mp4"
+    },
+
+        {
+      "title": "Bleed It",
+      "artist": "Blueface",
+      "cover": "https://r2.fivemanage.com/CIRFDh7crc006bgWELwMN/bluefacebleedit.jpg",
+      "src": "https://r2.fivemanage.com/CIRFDh7crc006bgWELwMN/Blueface-BleedIt(OfficialMusicVideo).mp4"
+    },
+
+        {
+      "title": "Thotiana",
+      "artist": "Blueface",
+      "cover": "https://r2.fivemanage.com/CIRFDh7crc006bgWELwMN/bluefacethotiana.jpg",
+      "src": "https://r2.fivemanage.com/CIRFDh7crc006bgWELwMN/BlueFace_Thotiana_(WSHHExclusive-OfficialMusicVideo).mp4"
+    },
+
+        {
+      "title": "West Coast",
+      "artist": "G-Eazy, Blueface, ALLBLACK & YG",
+      "cover": "https://r2.fivemanage.com/CIRFDh7crc006bgWELwMN/westcoast.jpg",
+      "src": "https://r2.fivemanage.com/CIRFDh7crc006bgWELwMN/G-EazyBlueface-WestCoast(feat.BluefaceALLBLACKYG)(OfficialVideo)ft.ALLBLACKYG.mp4"
+    },
+
+        {
+      "title": "Hookah",
+      "artist": "Tyga ft. Young Thug",
+      "cover": "https://r2.fivemanage.com/CIRFDh7crc006bgWELwMN/hookah.jpg",
+      "src": "https://r2.fivemanage.com/CIRFDh7crc006bgWELwMN/Tyga-Hookahft.YoungThug.mp4"
+    },
+
+        {
+      "title": "Lifestyle",
+      "artist": "Young Thug, Rich Homie Quan",
+      "cover": "https://r2.fivemanage.com/CIRFDh7crc006bgWELwMN/lifestyle.jpg",
+      "src": "https://r2.fivemanage.com/CIRFDh7crc006bgWELwMN/RichGang-Lifestyle(OfficialMusicVideo)ft.YoungThugRichHomieQuan.mp4"
+    },
+
+       {
+      "title": "Faded",
+      "artist": "Tyga ft. Lil Wayne",
+      "cover": "https://r2.fivemanage.com/CIRFDh7crc006bgWELwMN/tyga_faded.jpg",
+      "src": "https://r2.fivemanage.com/CIRFDh7crc006bgWELwMN/Tyga-Faded(Explicit)ft.LilWayne.mp4"
+    },
+
+        {
+      "title": "Not Like Us",
+      "artist": "Kendrick Lamar",
+      "cover": "https://r2.fivemanage.com/CIRFDh7crc006bgWELwMN/kendricklamar-notlikeus.jpg",
+      "src": "https://r2.fivemanage.com/CIRFDh7crc006bgWELwMN/KendrickLamar-NotLikeUs-(1080p).mp4"
+    },
+
+
+       {
+      "title": "Squabble Up",
+      "artist": "Kendrick Lamar",
+      "cover": "https://r2.fivemanage.com/CIRFDh7crc006bgWELwMN/kendrick-squabble.jpg",
+      "src": "https://r2.fivemanage.com/CIRFDh7crc006bgWELwMN/squabbleup.mp4"
+    },
+
+       {
+      "title": "Soak City",
+      "artist": "310babii",
+      "cover": "https://r2.fivemanage.com/CIRFDh7crc006bgWELwMN/310babii_-_Soak_City_(Do_it).jpg",
+      "src": "https://r2.fivemanage.com/CIRFDh7crc006bgWELwMN/310babii-SoakCity(DoIt)(OfficialVideo).mp4"
+    },
+
+       {
+      "title": "Rack City",
+      "artist": "Tyga",
+      "cover": "https://r2.fivemanage.com/CIRFDh7crc006bgWELwMN/rackcity.jpg",
+      "src": "https://r2.fivemanage.com/CIRFDh7crc006bgWELwMN/Tyga-RackCity(Explicit).mp4"
+    },
+
+       {
+      "title": "Hit Em Up",
+      "artist": "2Pac",
+      "cover": "https://r2.fivemanage.com/CIRFDh7crc006bgWELwMN/2pachitemup.jpg",
+      "src": "https://r2.fivemanage.com/CIRFDh7crc006bgWELwMN/2Pac-Hit'EmUp(Dirty)(MusicVideo)HD.mp4"
+    },
+
+       {
+      "title": "Still D.R.E",
+      "artist": "Dr. Dre ft. Snoop Dogg",
+      "cover": "https://r2.fivemanage.com/CIRFDh7crc006bgWELwMN/snoopdre.jpg",
+      "src": "https://r2.fivemanage.com/CIRFDh7crc006bgWELwMN/Dr.Dre-StillD.R.E.ft.SnoopDogg.mp4"
+    },
+
+           {
+      "title": "Drop It Like It's Hot",
+      "artist": "Snoop Dogg Feat. Pharrell",
+      "cover": "https://r2.fivemanage.com/CIRFDh7crc006bgWELwMN/Snoop-dropit.jpg",
+      "src": "https://r2.fivemanage.com/CIRFDh7crc006bgWELwMN/SnoopDoggFeat.Pharrell-DropItLikeIt'sHot(Uncensored)-CalvinBroadus(1080p).mp4"
+    },
+
+           {
+      "title": "Real Muthaphuckkin G's",
+      "artist": "Eazy-E",
+      "cover": "https://r2.fivemanage.com/CIRFDh7crc006bgWELwMN/eazye-realG.jpg",
+      "src": "https://r2.fivemanage.com/CIRFDh7crc006bgWELwMN/Eazy-E-RealMuthaphuckkinG's(MusicVideo)-CreativeHip-Hop(1080p).mp4"
+    },
+
+       {
+      "title": "Nun Major",
+      "artist": "Shoreline Mafia",
+      "cover": "https://r2.fivemanage.com/CIRFDh7crc006bgWELwMN/nunmajor.jpg",
+      "src": "https://r2.fivemanage.com/CIRFDh7crc006bgWELwMN/ShorelineMafia-NunMajorOfficialMusicVideo.mp4"
+    },
+
+        {
+      "title": "Rubberz",
+      "artist": "Fenix Flexin",
+      "cover": "https://r2.fivemanage.com/CIRFDh7crc006bgWELwMN/rubberz-fenixflexin.jpg",
+      "src": "https://r2.fivemanage.com/CIRFDh7crc006bgWELwMN/FenixFlexinPurpsOnTheBeat-RUBBERZ(OfficialVideo).mp4"
+    },
+
+        {
+      "title": "Big Boss Status",
+      "artist": "Kai Bandz",
+      "cover": "https://r2.fivemanage.com/CIRFDh7crc006bgWELwMN/kaibandz.jpg",
+      "src": "https://r2.fivemanage.com/CIRFDh7crc006bgWELwMN/KaiBandz-BigBossStatus(OFFICIALVIDEO)ShotByBtcVisuals-KaiBandz(1080p).mp4"
+    },
+
+        {
+      "title": "Switch It Up",
+      "artist": "Kai Bandz",
+      "cover": "https://r2.fivemanage.com/CIRFDh7crc006bgWELwMN/KAIBANDZ-SWITCHITUP.jpg",
+      "src": "https://r2.fivemanage.com/CIRFDh7crc006bgWELwMN/KaiBandz-SwitchItUp(OFFICIALVIDEO)ShotByBtcVisuals-KaiBandz(1080p).mp4"
+    },
+
+    {
+      "title": "Where's Remble",
+      "artist": "Remble",
+      "cover": "https://r2.fivemanage.com/CIRFDh7crc006bgWELwMN/wheresremble.jpg",
+      "src": "https://r2.fivemanage.com/CIRFDh7crc006bgWELwMN/Remble-Where'sRemble(OfficialMusicVideo)-REMBY(1080p).mp4"
+    },
+
+    {
+      "title": "Rocc Climbing",
+      "artist": "Remble",
+      "cover": "https://r2.fivemanage.com/CIRFDh7crc006bgWELwMN/rocc-climbing.jpg",
+      "src": "https://r2.fivemanage.com/CIRFDh7crc006bgWELwMN/Remble-RoccClimbing(feat.LilYachty)OfficialMusicVideo.mp4"
+    },
+
+    {
+      "title": "Not Like Us Freestyle",
+      "artist": "Remble",
+      "cover": "https://r2.fivemanage.com/CIRFDh7crc006bgWELwMN/notlikeus-remble.jpg",
+      "src": "https://r2.fivemanage.com/CIRFDh7crc006bgWELwMN/REMBLE-NOTLIKEUSFREESTYLE(OFFICIALMUSICVIDEO).mp4"
+    },
+
+
+       {
+      "title": "Touchable",
+      "artist": "Remble",
+      "cover": "https://r2.fivemanage.com/CIRFDh7crc006bgWELwMN/TOUCHABLE.jpg",
+      "src": "https://r2.fivemanage.com/CIRFDh7crc006bgWELwMN/Remble-Touchable(OfficialMusicVideo).mp4"
+    },
+
+
+       {
+      "title": "Gordon Ramsay Freestyle",
+      "artist": "Remble",
+      "cover": "https://r2.fivemanage.com/CIRFDh7crc006bgWELwMN/GordonRamsayFreestyle.jpg",
+      "src": "https://r2.fivemanage.com/CIRFDh7crc006bgWELwMN/REMBLE-GordonRamsayFreestyle(OFFICIALMUSICVIDEO).mp4"
+    },
+
+
+       {
+      "title": "Where's Remble? (Not Like Us Freestyle)",
+      "artist": "OTM",
+      "cover": "https://r2.fivemanage.com/CIRFDh7crc006bgWELwMN/REMBLEDISS.jpg",
+      "src": "https://r2.fivemanage.com/CIRFDh7crc006bgWELwMN/OTM-Where'sRemble(NotLikeUsFreestyle)ShotByakaSuaz.mp4"
+    },
+
+       {
+      "title": "The Biggest G",
+      "artist": "EBK Jaaybo",
+      "cover": "https://r2.fivemanage.com/CIRFDh7crc006bgWELwMN/EBK-BIGGESTG.jpg",
+      "src": "https://r2.fivemanage.com/CIRFDh7crc006bgWELwMN/EBKJaaybo-TheBiggestG(FirstDayOut)OfficialMusicVideo.mp4"
+    },
+
+       {
+      "title": "F*ck Everybody (Free Maxx)",
+      "artist": "EBK Jaaybo",
+      "cover": "https://r2.fivemanage.com/CIRFDh7crc006bgWELwMN/EBK-FUCKEVERYBODY.jpg",
+      "src": "https://r2.fivemanage.com/CIRFDh7crc006bgWELwMN/EBKJaaybo-FckEverybody(FreeMaxx)OfficialMusicVideo.mp4"
+    },
+
+       {
+      "title": "Dum Hands",
+      "artist": "WhoHeem",
+      "cover": "https://r2.fivemanage.com/CIRFDh7crc006bgWELwMN/dumhands.jpg",
+      "src": "https://r2.fivemanage.com/CIRFDh7crc006bgWELwMN/Whoheem-dumhands(officialvideo)(GGBproduction)-(1080p).mp4"
+    },
+
+    {
+      "title": "Let's Link",
+      "artist": "WhoHeem",
+      "cover": "https://r2.fivemanage.com/CIRFDh7crc006bgWELwMN/letslink.jpg",
+      "src": "https://r2.fivemanage.com/CIRFDh7crc006bgWELwMN/WhoHeem-LetsLink(OfficialVideo)-(1080p).mp4"
+    },
+
+       {
+      "title": "6locc 6a6y",
+      "artist": "Lil Loaded",
+      "cover": "https://r2.fivemanage.com/CIRFDh7crc006bgWELwMN/6locc6aby.jpg",
+      "src": "https://r2.fivemanage.com/CIRFDh7crc006bgWELwMN/LilLoaded-6locc6a6y(OfficialVideo)shotbydonzo-(1080p).mp4"
+    },
+
+       {
+      "title": "Gang Unit",
+      "artist": "Lil Loaded",
+      "cover": "https://r2.fivemanage.com/CIRFDh7crc006bgWELwMN/gangunit-lil-loaded.jpg",
+      "src": "https://r2.fivemanage.com/CIRFDh7crc006bgWELwMN/LilLoaded-GangUnit(OfficialVideo)-(1080p).mp4"
+    },
+
+       {
+      "title": "North Sac Baby",
+      "artist": "Chito Rana$",
+      "cover": "https://r2.fivemanage.com/CIRFDh7crc006bgWELwMN/chitoranas-northsacbaby.jpg",
+      "src": "https://r2.fivemanage.com/CIRFDh7crc006bgWELwMN/ChitoRana-NorthSacBaby(OfficialVideo)_Dir.ShootSomething-(1080p).mp4"
+    },
+
+       {
+      "title": "All The Smoke",
+      "artist": "Chito Rana$",
+      "cover": "https://r2.fivemanage.com/CIRFDh7crc006bgWELwMN/chitoranas-allthesmoke.jpg",
+      "src": "https://r2.fivemanage.com/CIRFDh7crc006bgWELwMN/ChitoRana-AllTheSmoke(OfficialVideo)_Dir.ShootSomething-(1080p).mp4"
+    },
+
+    {
+      "title": "Bump Wit Me",
+      "artist": "Lil Weirdo",
+      "cover": "https://r2.fivemanage.com/CIRFDh7crc006bgWELwMN/LilWeirdo-Bumpwitme.jpg",
+      "src": "https://r2.fivemanage.com/CIRFDh7crc006bgWELwMN/LilWeirdo-_BumpWitMe_(OfficialMusicVideo)-(1080p).mp4"
+    },
+
+    {
+      "title": "Blue Print",
+      "artist": "Lefty Gunplay",
+      "cover": "https://r2.fivemanage.com/CIRFDh7crc006bgWELwMN/leftygunplay-blueprint.jpg",
+      "src": "https://r2.fivemanage.com/CIRFDh7crc006bgWELwMN/LeftyGunplay-BluePrint-(1080p60).mp4"
+    },
+
+    {
+      "title": "The Frank Story (Lefty Gunplay Diss)",
+      "artist": "Band$ From Tha Rose",
+      "cover": "https://r2.fivemanage.com/CIRFDh7crc006bgWELwMN/BandFromThaRose-TheFrankStory.jpg",
+      "src": "https://r2.fivemanage.com/CIRFDh7crc006bgWELwMN/BandFromThaRose_TheFrankStory_(LeftyGunplayDiss)ShotbySmVisuals707-(1080p).mp4"
+    },
+
+    {
+      "title": "Blue Bird",
+      "artist": "Lazy-Boy",
+      "cover": "https://r2.fivemanage.com/CIRFDh7crc006bgWELwMN/lazyboy-bluebird.jpg",
+      "src": "https://r2.fivemanage.com/CIRFDh7crc006bgWELwMN/Lazy-Boy-BlueBirdOfficialMusicVideoShotByYoungTC-(1080p).mp4"
+    }
+
+
+
+
+  ]
+}
